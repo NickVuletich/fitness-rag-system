@@ -1,0 +1,19 @@
+date: 01-06-2000
+weight: 197.9 lbs
+
+food:
+- Greek yogurt
+- steak
+- rice
+
+macros:
+calories: 2150
+protein: 180g
+fats: 54g
+carbs: 105g
+
+workout:
+type: legs
+
+notes:
+felt strong

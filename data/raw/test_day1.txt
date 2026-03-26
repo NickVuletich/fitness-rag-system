@@ -1,0 +1,20 @@
+date: 01-01-2000
+weight: 200.4 lbs
+
+food:
+- Greek yogurt
+- steak
+- rice
+- Chocholate
+
+macros:
+calories: 2231
+protein: 180g
+fats: 65g
+carbs: 133g
+
+workout:
+type: Chest + triceps
+
+notes:
+felt strong, hit PR

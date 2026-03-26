@@ -1,0 +1,19 @@
+date: 01-02-2000
+weight: 199.5 lbs
+
+food:
+- Greek yogurt
+- steak
+- rice
+
+macros:
+calories: 1965
+protein: 180g
+fats: 63g
+carbs: 123g
+
+workout:
+type: back + biceps
+
+notes:
+felt strong, did 5 more pullups
