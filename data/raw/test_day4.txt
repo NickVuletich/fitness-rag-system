@@ -2,15 +2,16 @@ date: 01-04-2000
 weight: 198.1 lbs
 
 food:
-- Greek yogurt
-- steak
-- rice
+- protein shake (1 scoop)
+- chicken breast (6 oz)
+- rice (1 serving)
+- apple
 
 macros:
-calories: 1984
-protein: 180g
-fats: 62g
-carbs: 98g
+calories: 1500
+protein: 130g
+carbs: 120g
+fat: 30g
 
 workout:
 type: legs

@@ -2,15 +2,17 @@ date: 01-05-2000
 weight: 197.6 lbs
 
 food:
-- Greek yogurt
-- steak
-- rice
+- Greek yogurt (300g)
+- protein shake (2 scoops)
+- chicken breast (6 oz)
+- rice (2 servings)
+- ice cream (small serving)
 
 macros:
-calories: 2000
-protein: 180g
-fats: 43g
-carbs: 115g
+calories: 2250
+protein: 160g
+carbs: 210g
+fat: 65g
 
 workout:
 type: legs
