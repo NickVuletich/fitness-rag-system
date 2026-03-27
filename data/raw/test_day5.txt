@@ -15,7 +15,7 @@ carbs: 210g
 fat: 65g
 
 workout:
-type: legs
+type: Chest + triceps
 
 notes:
 felt strong
